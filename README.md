@@ -1,16 +1,20 @@
-### Hi there 👋, I'm Shashank - aka [shanky][https://www.linkedin.com/in/shashankgpt/]
+### Hi there 👋, I'm Shashank - aka [shanky](https://www.linkedin.com/in/shashankgpt/)
 
+## I'm Developer
 <!--
 **shashankgpt/shashankgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on confidential
+- 🌱 I’m currently learning react native
+- 🤔 I’m looking for help with react native
+- 💬 Ask me about javascript, typescript, React, NodeJS etc
+- 📫 How to reach me: shashankgpt270@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Latest Blog post
+<!-- BLOG-POST-LIST: START -->
+<!-- BLOG-POST-LIST: END -->
