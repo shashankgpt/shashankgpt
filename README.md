@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankgpt)](https://github.com/shashankgpt/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankgpt)]
