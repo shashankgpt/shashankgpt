@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shashank - aka shanky[https://www.linkedin.com/in/shashankgpt/]
+### Hi there 👋, I'm Shashank - aka [shanky][https://www.linkedin.com/in/shashankgpt/]
 
 <!--
 **shashankgpt/shashankgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
